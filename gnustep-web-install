@@ -56,7 +56,7 @@ else
   # Just go to the parent directory, tools-scripts will exist.
   cd ..
 fi
-./tools-scripts/clone-essential-repos-https
+./tools-scripts/clone-all-repos-https
 
 echo "================ Install Dependencies ================"
 # Install dependencies
